@@ -47,7 +47,7 @@ A standalone, zero-dependency operating system kernel written from scratch with 
 
 **[Atrium](https://github.com/itssljk/atrium)** · A customizable browser start page · **[20 merged PRs](https://github.com/itssljk/atrium/pulls?q=is%3Apr+is%3Amerged+author%3Aitssuross)** · **[My fork](https://github.com/itssuross/atrium)**
 
-I worked across search, accessibility, and settings—including making [search suggestions work with the keyboard](https://github.com/itssljk/atrium/pull/30), testing [search contrast over wallpapers](https://github.com/itssljk/atrium/pull/28) across 42 desktop cases, and making [backup restores reject malformed shortcuts](https://github.com/itssljk/atrium/pull/32) before writing settings.
+I worked across search, accessibility, and settings, including making [search suggestions work with the keyboard](https://github.com/itssljk/atrium/pull/30), testing [search contrast over wallpapers](https://github.com/itssljk/atrium/pull/28) across 42 desktop cases, and making [backup restores reject malformed shortcuts](https://github.com/itssljk/atrium/pull/32) before writing settings.
 
 ## The long-term project
 
